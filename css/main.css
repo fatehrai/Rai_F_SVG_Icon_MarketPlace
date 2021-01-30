@@ -7,6 +7,7 @@
 {
 	width: 960px;
 	margin: 0 auto;
+	background-color: #EFDBBA;
 }
 
 #mainHeader
@@ -25,7 +26,7 @@
 
 #mainNav
 {
-	font-family: Helvetics, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	height: 60px;
 	/*background: linear-gradient(0deg, rgba(15,135,226,1) 0%, rgba(99,171,226,1) 100%);*/
 	margin-left: auto;
@@ -62,4 +63,35 @@
 	background-color: #EFDBBA;
 	border-radius: 10px;
 	color: #6B9E41;
+}
+
+#description h1
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	margin-top: 50px;
+	text-align: center;
+	color: #6B9E41;
+}
+
+#description h2
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	margin-top: 40px;
+	text-align: center;
+	color: #6B9E41;
+}
+
+#description p
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	margin-top: 40px;
+	text-align: center;
+	color: #6B9E41;
+	padding-left: 130px;
+	padding-right: 130px;
+	line-height: 30px;
 }
