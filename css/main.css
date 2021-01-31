@@ -75,10 +75,20 @@
 	color: #6B9E41;
 }
 
-#description h2
+#description h3
 {
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 30px;
+	font-size: 20px;
+	margin-top: 40px;
+	text-align: center;
+	color: #6B9E41;
+}
+
+#icon_title
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 40px;
 	margin-top: 40px;
 	text-align: center;
 	color: #6B9E41;
@@ -95,3 +105,86 @@
 	padding-right: 130px;
 	line-height: 30px;
 }
+
+#Icons
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#icon_1
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Shell
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Wave
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Palm
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Bird
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Icons-2
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#Glasses
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Starfish
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Fish
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Sun
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Umberella
+{
+	height: 100px;
+	width: 100px;
+}
+
+
+
