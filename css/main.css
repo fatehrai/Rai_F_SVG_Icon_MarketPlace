@@ -1,0 +1,248 @@
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width: 960px;
+	margin: 0 auto;
+	background-color: #EFDBBA;
+}
+
+#mainHeader
+{
+	display: flex;
+	flex-direction: row;
+	background: rgb(107,158,65);
+}
+
+#logoHeader
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left:10px;
+}
+
+#mainNav
+{
+	font-family: Helvetica, Arial, sans-serif;
+	height: 60px;
+	/*background: linear-gradient(0deg, rgba(15,135,226,1) 0%, rgba(99,171,226,1) 100%);*/
+	margin-left: auto;
+	font-size: 20px;
+}
+
+#mainNav ul
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	margin-right: 20px;
+	margin-top: 30px;
+}
+
+#mainNav ul li
+{
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+
+#mainNav ul li a
+{
+	color: #EFDBBA;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 10px;
+	transition: all .5s ease-in-out;
+}
+
+#mainNav ul li a:hover
+{
+	background-color: #EFDBBA;
+	border-radius: 10px;
+	color: #6B9E41;
+}
+
+#description h1
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	margin-top: 50px;
+	text-align: center;
+	color: #6B9E41;
+}
+
+#description h3
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	margin-top: 40px;
+	text-align: center;
+	color: #6B9E41;
+}
+
+#icon_title
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 40px;
+	text-align: center;
+	color: #6B9E41;
+}
+
+#description p
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	margin-top: 40px;
+	text-align: center;
+	color: #6B9E41;
+	padding-left: 130px;
+	padding-right: 130px;
+	line-height: 30px;
+}
+
+#Icons
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#icon_1
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Shell
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Wave
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Palm
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Bird
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Icons-2
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+
+#logoFooter
+{
+	display: flex;
+	flex-direction: row;
+	margin-left: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left:10px;
+}
+
+#footerNav
+{
+	font-family: Helvetica, Arial, sans-serif;
+	height: 60px;
+	/*background: linear-gradient(0deg, rgba(15,135,226,1) 0%, rgba(99,171,226,1) 100%);*/
+	margin-right: auto;
+	font-size: 20px;
+}
+
+#footerNav ul
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	margin-right: 20px;
+	margin-top: 30px;
+}
+
+#footerNav ul li
+{
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+
+#footerNav ul li a
+{
+	color: #EFDBBA;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 10px;
+	transition: all .5s ease-in-out;
+}
+
+#footerNav ul li a:hover
+{
+	background-color: #EFDBBA;
+	border-radius: 10px;
+	color: #6B9E41;
+}
+
+#Glasses
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Starfish
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Fish
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Sun
+{
+	height: 100px;
+	width: 100px;
+}
+
+#Umberella
+{
+	height: 100px;
+	width: 100px;
+}
+
+#mainFooter
+{
+	display: flex;
+	flex-direction: row;
+	background: rgb(107,158,65);
+}
+
+
